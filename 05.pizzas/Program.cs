@@ -9,6 +9,7 @@ namespace _05.pizzas
             if (args.Length==0){
                 Menu();
                 return 1;
+                
             }
 
             char tam = char.Parse(args[0]);
