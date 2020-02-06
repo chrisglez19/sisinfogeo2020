@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\bin\Debug\netcoreapp3.1\09.vectorcubo.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\09.vectorcubo\obj\Debug\netcoreapp3.1\09.vectorcubo.pdb

@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\obj\Debug\netcoreapp3.1\06.vectorpromedio.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\obj\Debug\netcoreapp3.1\06.vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\obj\Debug\netcoreapp3.1\06.vectorpromedio.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\bin\Debug\netcoreapp3.1\06.vectorpromedio.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\obj\Debug\netcoreapp3.1\06.vectorpromedio.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\06.vectorpromedio\obj\Debug\netcoreapp3.1\06.vectorpromedio.pdb
