@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\bin\Debug\netcoreapp3.1\13.vectorestadistica.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\13.vectorestadistica\obj\Debug\netcoreapp3.1\13.vectorestadistica.pdb
