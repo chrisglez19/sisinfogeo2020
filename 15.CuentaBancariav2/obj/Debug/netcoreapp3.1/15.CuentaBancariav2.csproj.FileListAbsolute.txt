@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\bin\Debug\netcoreapp3.1\15.CuentaBancariav2.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\15.CuentaBancariav2.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\15.CuentaBancariav2.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\15.CuentaBancariav2.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\15.CuentaBancariav2.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\15.CuentaBancariav2.pdb
