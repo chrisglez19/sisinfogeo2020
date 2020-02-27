@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\bin\Debug\netcoreapp3.1\1.Parcial1.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\obj\Debug\netcoreapp3.1\1.Parcial1.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\obj\Debug\netcoreapp3.1\1.Parcial1.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\obj\Debug\netcoreapp3.1\1.Parcial1.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\obj\Debug\netcoreapp3.1\1.Parcial1.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\1.Parcial1\obj\Debug\netcoreapp3.1\1.Parcial1.pdb
