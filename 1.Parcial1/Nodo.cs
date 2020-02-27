@@ -8,11 +8,11 @@ namespace _1.Parcial1
         private string ip;
         private string tipo;
         private string puertos;
-        private string saltos;
+        private int saltos;
         private string so;
         private List<Vulnerabilidad> vulnerabilidades;
 
-          public Nodo(string ip, string tipo, string puertos, string saltos, string so) {
+          public Nodo(string ip, string tipo, string puertos, int saltos, string so) {
             this.ip=ip;
             this.tipo=tipo;
             this.puertos=puertos;
@@ -36,9 +36,13 @@ namespace _1.Parcial1
             set { puertos = value; }
         }
 
-        public string Saltos{
+        public int Saltos{
             get { return saltos; }
             set { saltos = value; }
+        }
+        public string So{
+            get { return so; }
+            set { so = value; }
         }
 
 
