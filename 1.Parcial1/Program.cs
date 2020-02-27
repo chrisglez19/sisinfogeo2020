@@ -35,7 +35,6 @@ namespace _1.Parcial1
             Console.WriteLine("         Reporte de Red");
             Console.WriteLine("----------------------------------------");
             Console.WriteLine($"Total Nodos: {red.Nodos.Count}");
-            Console.WriteLine("---------------------------------------");
             foreach(Nodo ndo in red.Nodos){
                 if(ndo.Saltos>=mayor)
                     mayor=ndo.Saltos;
