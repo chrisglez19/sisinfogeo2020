@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.pdb
