@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\2.Parcial2.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.csproj.CopyComplete
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\2.Parcial2\obj\Debug\netcoreapp3.1\2.Parcial2.pdb
