@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.exe
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.deps.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.runtimeconfig.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.runtimeconfig.dev.json
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\bin\Debug\netcoreapp3.1\29.Threads3.pdb
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\obj\Debug\netcoreapp3.1\29.Threads3.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\obj\Debug\netcoreapp3.1\29.Threads3.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\obj\Debug\netcoreapp3.1\29.Threads3.AssemblyInfo.cs
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\obj\Debug\netcoreapp3.1\29.Threads3.dll
+C:\Users\chris\Documents\Ing_en_Computación\Sis_InfGeograficaNET\Proyectos\28.Threads2\29.Threads3\obj\Debug\netcoreapp3.1\29.Threads3.pdb
